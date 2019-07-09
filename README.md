@@ -31,3 +31,15 @@ docker run --rm -p 443:443 nbgallery/jupyter-alpine
 ```
 
 The default entrypoint is [jupyter-notebook-secure](util/jupyter-notebook-secure), which will generate a self-signed certificate and then launch the jupyter notebook server under HTTPS with an automatically-generated [authentication token](http://jupyter-notebook.readthedocs.io/en/stable/security.html).
+
+
+
+
+
+
+templates copiar a
+*/usr/lib/python3.6/site-packages/nbconvert/templates/latex*
+
+modificar salida latex de dataframe copiar a 
+*/root/.ipython/profile_default/startup*
+
